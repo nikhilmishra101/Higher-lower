@@ -5,3 +5,6 @@
 Use this link to access the game:-
 
 https://repl.it/join/avzkmqbv-ieirodov
+
+
+![](Images/output.PNG)
